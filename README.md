@@ -1,2 +1,2 @@
 # technical-landing-page
-Example landing page for a figure and sculpture auction site.
+Example landing page for a figure and sculpture auction site. FreeCodingCamp project.
